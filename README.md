@@ -1,1 +1,1 @@
-# laravel-info
+Laravel
